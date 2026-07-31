@@ -26,7 +26,7 @@ A comprehensive Java application for managing and tracking student grades with a
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/abuhurera05/StudentGradeTracker.git
+git clone https://github.com/abuhurera05/CodeAplha_StudenGradeTracker.git
 cd CodeAlpha_StudentGradeTracker
 javac src/com/codealpha/gradetracker/*.java
 java src/com/codealpha/gradetracker/Main
